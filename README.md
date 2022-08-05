@@ -12,7 +12,7 @@ The folder to control. Default `"."`.
 
 ```yaml
 - name: PHP Syntax Checker (Lint)
-  uses: StephaneBour/actions-php-lint@7.3
+  uses: JackMasterson/actions-php-lint@7.3
   with:
     dir: './src'
 ```
@@ -21,9 +21,9 @@ The folder to control. Default `"."`.
 
 You can use :
 ```
-StephaneBour/actions-php-lint@7.3
-StephaneBour/actions-php-lint@7.2
-StephaneBour/actions-php-lint@7.1
-StephaneBour/actions-php-lint@7.0
-StephaneBour/actions-php-lint@5.6
+JackMasterson/actions-php-lint@7.3
+JackMasterson/actions-php-lint@7.2
+JackMasterson/actions-php-lint@7.1
+JackMasterson/actions-php-lint@7.0
+JackMasterson/actions-php-lint@5.6
 ```
